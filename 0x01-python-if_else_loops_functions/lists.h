@@ -22,6 +22,7 @@ def fizzbuzz();
 listint_t *insert_node(listint_t **head, int number);
 def remove_char_at(str, n);
 def islower(c);
+def uppercase(input_str);
 def uppercase(str);
 size_t print_listint(const listint_t *h);
 listint_t *add_nodeint_end(listint_t **head, const int n);
